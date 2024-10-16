@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Adrianna Francone
+## [Lab 06]
+## [Submission date: 10/16/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Class Notes
+* Annalise Gade
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+*N/A
